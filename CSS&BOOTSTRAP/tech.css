@@ -1,0 +1,30 @@
+html{
+    height:100%;
+}
+
+.navbar-default .navbar-brand{
+    color: black;
+}
+
+body{
+    background-image:url(../techorigi.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family:sans-serif;
+}
+
+.center{
+    text-align: center;
+    padding-top: 12%;
+}
+
+h1,p{
+    color: white;
+}
+
+
+i{
+    color: white;
+}
+
+
